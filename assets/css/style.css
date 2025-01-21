@@ -73,11 +73,11 @@ body {
 
 /* Hero section */
 header {
-  background-image: url('/assets/images/background.png');
-  background-size: cover;
-  background-position: center;
-  color: #fff;
-  padding: 250px 0;
+    background-image: url('../images/background.png');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 250px 0;
 }
 
 header .container {
@@ -186,7 +186,7 @@ button:hover::before {
 /* Rules section */
 .reglas {
   padding: 40px 0;
-  background-image: url('/assets/images/bg-grid.png');
+  background-image: url('../images/bg-grid.png');
   background-size: cover;
   background-position: center;
 }
